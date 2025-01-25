@@ -41,6 +41,13 @@ The generated image preserves the structure of the content image while applying 
 # Results
 The project successfully produces visually appealing stylized images. Here's an example:
 
+Content Image: ![content](https://github.com/user-attachments/assets/25577c5d-c0c2-4219-8d2f-c50d7e2a635c)
+
+Style Image: ![style](https://github.com/user-attachments/assets/c1cc065e-f7e0-4c54-8303-aff6a9784f08)
+
+Output Image: ![image](https://github.com/user-attachments/assets/7e65687e-7521-4294-b7a4-d67596c5f81f)
+
+
 # Future Improvements
 Support for higher-resolution images.
 Integration of additional loss functions for improved stylization quality.
