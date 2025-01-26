@@ -1,4 +1,15 @@
 # NEURAL-STYLE-TRANSFER
+**Company**: CODTECH IT SOLUTIONS PVT.LTD
+
+**Name**: Ankur Datta
+
+**Intern ID**: CT08JSJ
+
+**Domain**: Artificial Intelligence
+
+**Batch Duration**: January 5th, 2025 to February 5th, 2025
+
+**Mentor Name**: Neela Santhosh 
 
 # Description
 This project implements a Neural Style Transfer model using TensorFlow and Keras. The model applies artistic styles from one image (style image) to another (content image) to generate a new image that blends the content and style. It leverages the pre-trained VGG19 model for feature extraction and computes the content and style losses to iteratively optimize the generated image.
